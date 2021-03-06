@@ -54872,7 +54872,7 @@ C.b.sk(k,0)
 j=J
 i=C.by
 s=2
-return P.a8($.pn().XD("jsonData.json"),$async$f3)
+return P.a8($.pn().XD("assets/jsonData.json"),$async$f3)
 case 2:p=j.an(i.dk(0,c)),o=t.bi,n=t.z
 case 3:if(!p.q()){s=4
 break}m=p.gw(p)
