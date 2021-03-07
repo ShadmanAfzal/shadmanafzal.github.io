@@ -27,7 +27,10 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="favicon.ico" />
     <title>Shadman Afzal</title>
-
+    <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js"></script>
+    <script type="text/javascript">
+        pdfjsLib.GlobalWorkerOptions.workerSrc = "//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js";
+    </script>
     <script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-app.js"></script>
     <link rel="manifest" href="manifest.json">
 </head>
@@ -39,7 +42,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('flutter-first-frame', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=3759906748');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=1443322645');
             });
         }
     </script>

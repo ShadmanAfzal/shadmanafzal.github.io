@@ -3,12 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ee076f43def18cf4b041ed1ff25ca672",
+  "assets/AssetManifest.json": "5af259550b764ac727f3d4b23d5edb7b",
 "assets/assets/certificate.jpg": "5d798cd6bf9963891721255e6fe51722",
+"assets/assets/Internship%2520Completion%2520Certificate.pdf": "72e174c80d6b4bd74c807383c40cbb32",
+"assets/assets/IT%2520Syllabus.pdf": "bf421814a8bdfa0cd2c35e83e7e82ad0",
 "assets/assets/jsonData.json": "69ba5086eac8867ed5eccb5ee3eda164",
+"assets/assets/lorem.pdf": "eb18caac6031e55896d9c6f36591fac4",
+"assets/assets/Shadman's%2520Resume%25202021.pdf": "ae10c99dec5d6527781ca96d6b38126a",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "2b7d6ea9ec119d99dc1b2de3dab863d4",
+"assets/NOTICES": "7c0cfb2bb293e5e70aeede279b8d090c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
@@ -16,9 +20,9 @@ const RESOURCES = {
 "favicon.ico": "d019a4731adb14bf76b117986cb94176",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c0a89e79c09823584b1dca6a685bb169",
-"/": "c0a89e79c09823584b1dca6a685bb169",
-"main.dart.js": "bb62716375310deaefb88bfbd858c981",
+"index.html": "6f2a277797300ba6129e7fd196147d8b",
+"/": "6f2a277797300ba6129e7fd196147d8b",
+"main.dart.js": "8e2b49d2305973b71522219c47eaffdc",
 "manifest.json": "53f0f913e88d53cedb31e8dcd7fe1140",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
