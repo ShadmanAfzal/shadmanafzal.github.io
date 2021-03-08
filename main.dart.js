@@ -64611,7 +64611,7 @@ a3=t.eD
 a3=new O.BD(R.ad6(H.c([new F.k9("Website Dev",80),new F.k9("Android App Dev",87),new F.k9("iOS App Dev",75),new F.k9("Web Scraping",84)],t.kh),t.PZ),0,0,H.c([],t.r7),P.dY(b,b,b,t._,t.J6),new M.jC(a3),new M.jC(a3),!1,!1)
 a3.vs()
 n=t.i
-m=H.c(["assets/python.webp","assets/java.webp","c++.png","dart.png"],n)
+m=H.c(["assets/python.webp","assets/java.webp","assets/c++.png","assets/dart.png"],n)
 l=H.c(["assets/flutter.png","assets/react.png","assets/django.jpg"],n)
 n=H.c(["assets/postman.png","assets/firebase.webp","assets/github.png"],n)
 k=a2?new T.bi(C.r7,new Z.tM(b),b):new T.bi(C.ra,new Z.tM(b),b)
